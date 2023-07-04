@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+✂️⚡️🔪️💾️ HyperSlice is an AI powered tool for rapidly cutting elements out of digital media, and saving them to various output files.
